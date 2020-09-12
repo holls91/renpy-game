@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/myScreens.rpy", line 4: u'Jump' is not a keyword argument or valid child for the hotspot statement.
+    hotspot (37, 1, 223, 628) action hovered Jump("yeah")
+                                                 ^
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Sat Sep 12 16:06:35 2020
