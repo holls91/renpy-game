@@ -7,4 +7,5 @@ Renpy-game is exactly what the name says: a prototype for a fully accesible game
 ## Credits
 
 Sprite: https://noranekogames.itch.io/ - https://www.deviantart.com/noraneko-games
+
 Background: https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=17302
